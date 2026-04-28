@@ -11,6 +11,7 @@ This repository contains a lightweight static website built with plain HTML and 
 ## Pages
 
 - `index.html` - homepage
+- `products.html` - launched websites
 - `services.html` - operating areas and services
 - `about.html` - company overview
 - `contact.html` - contact information
