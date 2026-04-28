@@ -4,7 +4,7 @@ Static company website for **BlueCore Technologies LLC**.
 
 ## Overview
 
-BlueCore Technologies LLC is a single-member U.S. LLC operating web properties in tools, gaming content, and affiliate publishing.
+BlueCore Technologies LLC is a single-member U.S. LLC operating web properties in AI tools, SaaS tools, gaming content, and digital publishing.
 
 This repository contains a lightweight static website built with plain HTML and CSS. It can be hosted on GitHub Pages, Cloudflare Pages, Netlify, Vercel, or any standard static hosting service.
 
@@ -22,7 +22,7 @@ This repository contains a lightweight static website built with plain HTML and 
 ## Company Information
 
 - Company: BlueCore Technologies LLC
-- Address: 30 N Gould St Ste R, Sheridan, WY 82801 US
+- Registered Address: 30 N Gould St Ste R, Sheridan, WY 82801 US
 - Email: support@bluecoretechnologiesllc.com
 - Domain: bluecoretechnologiesllc.com
 
