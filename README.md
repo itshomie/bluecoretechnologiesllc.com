@@ -4,7 +4,7 @@ Static company website for **BlueCore Technologies LLC**.
 
 ## Overview
 
-BlueCore Technologies LLC is a single-member U.S. LLC operating web properties in AI tools, SaaS tools, gaming content, and digital publishing.
+BlueCore Technologies LLC is a single-member U.S. LLC operating AI and SaaS web tool properties.
 
 This repository contains a lightweight static website built with plain HTML and CSS. It can be hosted on GitHub Pages, Cloudflare Pages, Netlify, Vercel, or any standard static hosting service.
 
@@ -17,7 +17,6 @@ This repository contains a lightweight static website built with plain HTML and 
 - `contact.html` - contact information
 - `privacy.html` - privacy policy
 - `terms.html` - terms of use
-- `affiliate-disclosure.html` - affiliate disclosure
 
 ## Company Information
 
