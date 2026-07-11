@@ -4,15 +4,15 @@ Static company website for **BlueCore Technologies LLC**.
 
 ## Overview
 
-BlueCore Technologies LLC is a single-member U.S. LLC operating AI web tools, SaaS utilities, and software-focused online products.
+BlueCore Technologies LLC is a single-member U.S. LLC that owns and operates focused browser-based products.
 
-This repository contains a lightweight static website built with plain HTML and CSS. It can be hosted on GitHub Pages, Cloudflare Pages, Netlify, Vercel, or any standard static hosting service.
+This repository contains a static website built with plain HTML, CSS, and JavaScript. It uses a light editorial layout, locally hosted fonts, optimized WebP imagery, and a small mobile-navigation script. It can be hosted on GitHub Pages, Cloudflare Pages, Netlify, Vercel, or any standard static hosting service.
 
 ## Pages
 
 - `index.html` - homepage
-- `products.html` - launched websites
-- `services.html` - operating areas and services
+- `products.html` - three operated products
+- `services.html` - product operating capabilities
 - `about.html` - company overview
 - `contact.html` - contact information
 - `privacy.html` - privacy policy
@@ -24,6 +24,12 @@ This repository contains a lightweight static website built with plain HTML and 
 - Company Registered Address: 30 N Gould St Ste R, Sheridan, WY 82801
 - Email: support@bluecoretechnologiesllc.com
 - Domain: bluecoretechnologiesllc.com
+
+## Current Portfolio
+
+- Bold Text Generator: boldtextgenerator.me
+- AP Score Calculator: apscorecalculator.app
+- Morse Code Alphabet: morsecodealphabet.net
 
 ## Local Preview
 
